@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "init": "^0.1.2",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.0",
+    "yargs": "^17.6.0"
+  }
+}
